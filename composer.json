@@ -1,0 +1,16 @@
+{
+    "name": "henrique/aula13",
+    "description": "exemplo composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Henrique-Ribeiro-glitch",
+            "email": "hj777457@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "9999999-dev"
+    }
+}
